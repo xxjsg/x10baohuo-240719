@@ -20,6 +20,6 @@ jobs:
         pip3 install -r requirements.txt
     - name: Running keepalive
       env:
-        KOY_EB: 
+        KOY_EB: a601x10b@nqmo.com-sddddDDDDD333322aaaa
       run: |
         python3 koyeb.py
